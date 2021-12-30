@@ -1,4 +1,4 @@
-# yt-playlist-compiler++
+# yt-playlist-compiler
 
 Have you ever wanted to combine all the videos in one of your playlists into one compact video file?
 Using this software you can!
